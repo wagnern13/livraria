@@ -1,0 +1,22 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Arquivos compilados ###
+*.class
+
+### Logs ###
+*.log
+
+### Sistema operacional ###
+.DS_Store
+Thumbs.db
+
+### Arquivos temporários ###
+*.tmp
+*.swp
+*.swo
+
+### Arquivos de backup ###
+*~
