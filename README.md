@@ -44,7 +44,7 @@ livraria/
 │         └── java/
 │              └── br/com/wagner/livraria/
 │                   ├── application/   # Classe principal (Main)
-│                   ├── model/         # Entidades: Livro, Emprestimo
+│                   ├── model/         # Entidades: Livro, Autor, Emprestimo
 │                   ├── service/       # Regras de negócio
 │                   └── ui/            # Interface de console (menus)
 ├── .gitignore
